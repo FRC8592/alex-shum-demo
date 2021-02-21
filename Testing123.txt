@@ -1,4 +1,5 @@
 main ()
 {
 		print("Hello world!\n");
+		print("new feature 1!\n");
 }
